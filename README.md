@@ -1,4 +1,5 @@
-# Planned to add (✔️ = Done, ✖️ = Pending, 🟰 = Done a bit):
+# Planned to add:
+## (✔️ = Done, ✖️ = Pending, 🟰 = Done a bit)
   - Four season on floating island ✔️
   - Corrupted beneathland ✖️
   - Altar in the middle of the island ✖️
