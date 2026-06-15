@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Invoke-RestMethod -Uri \"http://127.0.0.1:8000/health\")",
+      "PowerShell(Invoke-RestMethod -Uri \"http://127.0.0.1:8000/api/profile\")",
+      "WebSearch",
+      "WebFetch(domain:docs.langchain.com)",
+      "PowerShell(New-Item -ItemType Directory -Force \"C:\\\\Projects\\\\pathway-backend\\\\app\\\\agents\")",
+      "PowerShell(New-Item -ItemType File -Force \"C:\\\\Projects\\\\pathway-backend\\\\app\\\\agents\\\\__init__.py\")"
+    ],
+    "additionalDirectories": [
+      "C:\\Projects\\pathway-backend"
+    ]
+  }
+}
