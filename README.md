@@ -13,8 +13,9 @@
 # Used AI (claude) for:
   - Building tool that replace specific srpite (every of a layer) to another
   
-# What it looks like now (16/6/2026):  
-<img width="752" height="842" alt="image" src="https://github.com/user-attachments/assets/6e2f88ad-fd7a-4115-a822-5ece9b4e4fc4" />
+# What it looks like now (1/7/2026):  
+<img width="755" height="830" alt="image" src="https://github.com/user-attachments/assets/19f8a0f6-ad3f-41d8-a8b2-cffbb78a6fc5" />
+
 
 
 
